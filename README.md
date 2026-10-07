@@ -1,361 +1,259 @@
-<h1 align="center">Hi 👋, I'm Yuki</h1>
+# 👋 Xin chào! Tôi là Yuki
 
-<h3 align="center">
-Full-stack Developer • FiveM Developer • Backend & Infrastructure
-</h3>
+Chào mừng bạn đến với trang GitHub của tôi.
 
-<p align="center">
-  <a href="https://github.com/yukicore21321">
-    <img src="https://komarev.com/ghpvc/?username=yukicore21321&style=flat-square&label=PROFILE+VIEWS" />
-  </a>
-  <img src="https://img.shields.io/github/followers/yukicore21321?style=flat-square&label=FOLLOWERS" />
-</p>
+Tôi là một lập trình viên yêu thích việc xây dựng, thử nghiệm và phát triển các hệ thống mới. Công việc của tôi chủ yếu tập trung vào phát triển FiveM, giao diện web, backend, API và các hệ thống máy chủ.
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 Giới thiệu về tôi
 
-I'm a developer focused on building complete systems across frontend, backend, game servers and infrastructure.
-
-Most of my work revolves around:
-
-- 🎮 FiveM / GTA V server development
-- ⚛️ React & modern frontend interfaces
-- 🟢 Node.js backend services
-- 🌐 REST APIs & realtime services
-- 🗄️ MySQL / database systems
-- ☁️ Cloudflare & deployment infrastructure
-- 🤖 Discord bots & integrations
-- 🛡️ Authentication and server-side security
+- 🔭 Hiện tại tôi đang phát triển **...**
+- 🌱 Tôi đang tìm hiểu thêm về **...**
+- 👯 Tôi muốn hợp tác trong các dự án **...**
+- 💬 Bạn có thể hỏi tôi về **FiveM, React, Node.js, Lua, Backend...**
+- 📫 Liên hệ với tôi: **...**
+- 🌐 Website: **...**
+- ⚡ Sở thích: **Lập trình, game và xây dựng các hệ thống mới**
 
 ---
 
-### 🚧 What I'm currently working on
+## ⚙️ Công cụ và công nghệ yêu thích
 
-Want to know what I'm currently building?
+Những công cụ và công nghệ tôi thường xuyên sử dụng hoặc đang quan tâm:
 
-I'm currently developing and maintaining several projects around the **APAX / FiveM ecosystem**.
-
-- [`Apax-Laucher`](https://github.com/yukicore21321/Apax-Laucher) — Desktop launcher and game ecosystem
-- [`apax_web`](https://github.com/yukicore21321/apax_web) — Web platform and frontend
-- FiveM server systems — Gameplay, UI, APIs and backend infrastructure
-- Discord ecosystem — Bots, moderation and server integrations
-- Backend services — Authentication, user data and server connectivity
-
-> Most of my larger production projects are private repositories.
-
-*I'm constantly experimenting, rebuilding and improving systems — sometimes the best projects take a little longer to put all the pieces together.*
-
----
-
-### 🧩 Technologies I work with
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,lua,python,mysql,git,github,cloudflare,vscode&perline=6" />
-
-</p>
-
----
-
-### ⚙️ Development ecosystem
-
-<table>
-<tr>
-<th align="center">Frontend</th>
-<th align="center">Backend</th>
-<th align="center">Game Development</th>
-</tr>
-
-<tr>
-
-<td valign="top">
-
-- React
-- Next.js
+**Ngôn ngữ lập trình**
 - JavaScript
 - TypeScript
-- HTML / CSS
-- NUI interfaces
-
-</td>
-
-<td valign="top">
-
-- Node.js
-- REST APIs
-- MySQL
-- Authentication
-- WebSocket
-- Cloud infrastructure
-
-</td>
-
-<td valign="top">
-
-- FiveM
 - Lua
-- ESX
-- ox_inventory
-- Custom resources
-- Server architecture
+- Python
+- C#
+- C++
 
-</td>
+**Frontend**
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- Bootstrap
 
-</tr>
-</table>
+**Backend**
+- Node.js
+- REST API
+- WebSocket
 
----
+**Cơ sở dữ liệu**
+- MySQL
+- PostgreSQL
+- Redis
 
-### 📦 Featured projects
+**DevOps & Hạ tầng**
+- Git
+- GitHub
+- Docker
+- Cloudflare
+- Linux
+- Nginx
 
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="center">
-<a href="https://github.com/yukicore21321/Apax-Laucher">
-🚀 Apax Launcher
-</a>
-</h3>
-
-<p align="center">
-Launcher ecosystem built for FiveM with authentication, server integration and update systems.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">
-<a href="https://github.com/yukicore21321/apax_web">
-🌐 APAX Web
-</a>
-</h3>
-
-<p align="center">
-Web frontend and services for the APAX ecosystem.
-</p>
-
-</td>
-
-</tr>
-</table>
+**Công cụ phát triển**
+- Visual Studio Code
+- Postman
+- GitHub Actions
 
 ---
 
-### 📊 GitHub overview
+## 🚧 Tôi đang làm gì?
 
-<p align="center">
+Bạn muốn biết hiện tại tôi đang phát triển những gì?
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=yukicore21321&show_icons=true&hide_border=true&theme=transparent" />
+Hiện tại tôi đang tập trung vào một số dự án liên quan đến **FiveM, Web và hệ thống Backend**.
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukicore21321&layout=compact&hide_border=true&theme=transparent" />
+- 🎮 **FiveM** — Phát triển gameplay, resource và hệ thống server.
+- 🎨 **React / NUI** — Xây dựng giao diện hiện đại cho FiveM.
+- 🌐 **Website** — Phát triển website và hệ thống quản lý.
+- ⚙️ **Backend API** — Xây dựng API kết nối website, launcher và game server.
+- 🚀 **Launcher** — Phát triển launcher dành cho hệ thống FiveM.
+- 🤖 **Discord Bot** — Bot quản lý và tích hợp với server.
+- ☁️ **Infrastructure** — Server, CDN, Cloudflare và hệ thống triển khai.
 
-</p>
+> Phần lớn các dự án lớn của tôi hiện đang được phát triển trong repository riêng tư.
 
----
+*Tôi vẫn đang liên tục phát triển và hoàn thiện các dự án của mình. Một số hệ thống có thể mất nhiều thời gian hơn dự kiến vì tôi muốn chúng hoạt động ổn định trước khi hoàn thành.*
 
-### 🔥 Development activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yukicore21321&theme=transparent&hide_border=true" />
-
-</p>
+Cảm ơn bạn đã ghé thăm và quan tâm đến những dự án của tôi! ❤️
 
 ---
 
-### 🐍 Contribution activity
+## 📊 Thống kê GitHub
 
-<p align="center">
+<details>
+<summary>📊 Thống kê trang GitHub</summary>
 
-<img src="https://raw.githubusercontent.com/yukicore21321/yukicore21321/output/github-contribution-grid-snake-dark.svg" />
+Hiển thị tổng quan hoạt động trên GitHub như:
 
-</p>
+- Tổng số commit
+- Pull Request
+- Issue
+- Contribution
+- Repository
+- Stars
 
----
+</details>
 
-### 📈 Activity graph
+<details>
+<summary>📈 Biểu đồ hoạt động</summary>
 
-<p align="center">
+Hiển thị biểu đồ hoạt động và contribution trên GitHub.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yukicore21321&theme=github-compact&hide_border=true&area=true" />
+</details>
 
-</p>
+<details>
+<summary>👀 Lượt xem trang cá nhân</summary>
 
----
+Hiển thị số lượt người đã truy cập GitHub Profile.
 
-### 🧠 Things I enjoy building
+</details>
 
-<table>
-<tr>
-<td align="center" width="25%">
+<details>
+<summary>⏳ Thời gian lập trình</summary>
 
-### 🎮
-**Game Systems**
+Hiển thị thống kê thời gian và hoạt động lập trình.
 
-FiveM gameplay and server resources
+</details>
 
-</td>
+<details>
+<summary>📌 Thông tin bổ sung</summary>
 
-<td align="center" width="25%">
+Các thông tin và thống kê bổ sung về hoạt động phát triển.
 
-### 🎨
-**Interfaces**
-
-Modern React and NUI experiences
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-**Infrastructure**
-
-APIs, servers and deployment systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛡️
-**Security**
-
-Authentication and anti-abuse systems
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-### 🛰️ Current focus
+## ✅ Hoạt động GitHub gần đây
 
-<details open>
-<summary><b>FiveM Ecosystem</b></summary>
+Các hoạt động gần đây của tôi trên GitHub:
 
-<br>
+- Commit code
+- Cập nhật repository
+- Tạo project mới
+- Pull Request
+- Issue
+- Release
 
-Building interconnected systems between:
+---
+
+## 🏆 Thành tích GitHub
+
+Các thành tích và cột mốc đạt được trong quá trình hoạt động trên GitHub.
+
+---
+
+## 💻 Các dự án nổi bật
+
+### 🚀 Launcher
+
+Launcher dành cho hệ thống FiveM, tích hợp tài khoản, cập nhật game và kết nối server.
+
+### 🌐 Website
+
+Website quản lý tài khoản, thông tin người chơi và các dịch vụ liên quan.
+
+### 🎮 FiveM Server
+
+Hệ thống server FiveM với nhiều resource và gameplay được phát triển riêng.
+
+### ⚙️ Backend
+
+Backend API chịu trách nhiệm kết nối:
 
 ```text
-Launcher
+Website
    │
-   ├── Authentication
+   ├── Tài khoản
+   ├── Xác thực
    │
    ▼
 Backend API
    │
-   ├── Account System
-   ├── Server Services
-   ├── Security
+   ├── Cơ sở dữ liệu
+   ├── API
+   ├── Bảo mật
    │
    ▼
 FiveM Server
    │
+   ├── Người chơi
    ├── Gameplay
-   ├── Database
-   ├── Resources
-   │
-   ▼
-React / NUI
+   └── Resources
 ```
 
-</details>
+---
 
-<details>
-<summary><b>Frontend & UI</b></summary>
+## 🧩 Lĩnh vực tôi quan tâm
 
-<br>
+### 🎮 Phát triển Game
 
-I enjoy rebuilding complex interfaces into reusable React applications with a focus on:
+Phát triển resource, gameplay và hệ thống dành cho FiveM.
 
-- Pixel-accurate layouts
-- Responsive UI
-- Animation
-- Component architecture
-- FiveM NUI integration
+### 🎨 Giao diện
 
-</details>
+Thiết kế và xây dựng giao diện React/NUI hiện đại.
 
-<details>
-<summary><b>Backend</b></summary>
+### ⚙️ Backend
 
-<br>
+API, authentication, database và realtime services.
 
-Backend projects commonly include:
+### ☁️ Hạ tầng
 
-- REST APIs
-- Authentication
-- Database integration
-- FiveM server communication
-- Discord integrations
-- Cloud storage and CDN infrastructure
+Server, domain, CDN, Cloudflare và deployment.
 
-</details>
+### 🛡️ Bảo mật
+
+Xác thực người dùng, bảo vệ API và kiểm tra phía server.
+
+### 🤖 Automation
+
+Bot Discord, GitHub Actions và các công cụ tự động hóa.
 
 ---
 
-### 🌌 Developer dashboard
+## 📈 Hoạt động đóng góp
 
-<table>
-<tr>
-
-<td align="center">
-
-<img width="400"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukicore21321&theme=github_dark" />
-
-</td>
-
-<td align="center">
-
-<img width="400"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukicore21321&theme=github_dark&utcOffset=7" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img width="400"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukicore21321&theme=github_dark" />
-
-</td>
-
-<td align="center">
-
-<img width="400"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukicore21321&theme=github_dark" />
-
-</td>
-
-</tr>
-</table>
+Theo dõi lịch sử commit và contribution của tôi trên GitHub.
 
 ---
 
-<div align="center">
+## 🐍 Biểu đồ Contribution
 
-### 🦑 Building things one commit at a time.
+Hiển thị hoạt ảnh chạy qua lịch sử contribution trên GitHub.
 
-**Code • Build • Break • Improve • Repeat**
+---
 
-<br>
+## 🦖 Trò chơi Contribution
 
-<a href="https://github.com/yukicore21321">
-<img src="https://img.shields.io/badge/GitHub-yukicore21321-181717?style=for-the-badge&logo=github">
-</a>
+Một phần trang trí vui dựa trên hoạt động GitHub, tương tự trò chơi khủng long Chrome trong profile mẫu.
 
-<br><br>
+---
 
-![Visitor Count](https://profile-counter.glitch.me/yukicore21321/count.svg)
+## 📫 Liên hệ với tôi
 
-</div>
+- 🌐 **Website:** ...
+- 💬 **Discord:** ...
+- 📧 **Email:** ...
+- 🐙 **GitHub:** yukicore21321
+- 📘 **Facebook:** ...
+- 🎵 **TikTok:** ...
+
+---
+
+## ❤️ Cảm ơn bạn đã ghé thăm!
+
+Cảm ơn bạn đã dành thời gian xem trang GitHub của tôi.
+
+Tôi luôn thích khám phá công nghệ mới, xây dựng những thứ thú vị và cải thiện các project của mình từng ngày.
+
+**Code • Xây dựng • Thử nghiệm • Cải thiện • Lặp lại**
+
+⭐ Nếu bạn thấy một project nào đó hữu ích, hãy để lại một **Star** nhé!
