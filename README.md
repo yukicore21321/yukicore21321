@@ -1,259 +1,355 @@
-# 👋 Xin chào! Tôi là Yuki
+# 🌙 DARKSIDE
 
-Chào mừng bạn đến với trang GitHub của tôi.
+[![FiveM](https://img.shields.io/badge/FiveM-Ready-F40552?style=flat-square)](#)
+[![Version](https://img.shields.io/badge/version-1.0.0-7c3aed?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square)](#)
 
-Tôi là một lập trình viên yêu thích việc xây dựng, thử nghiệm và phát triển các hệ thống mới. Công việc của tôi chủ yếu tập trung vào phát triển FiveM, giao diện web, backend, API và các hệ thống máy chủ.
+A modern FiveM ecosystem focused on performance, beautiful interfaces and scalable server architecture.
 
----
+<table>
+  <tr>
+    <th align="center">🎮 Gameplay System</th>
+    <th align="center">🎨 Modern Interface</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="./assets/gameplay.png">
+    </td>
+    <td align="center">
+      <img width="400" src="./assets/interface.png">
+    </td>
+  </tr>
 
-## 👨‍💻 Giới thiệu về tôi
+  <tr>
+    <th colspan="2" align="center">
+      <h3>✨ Powerful • Modular • Optimized</h3>
+    </th>
+  </tr>
 
-- 🔭 Hiện tại tôi đang phát triển **...**
-- 🌱 Tôi đang tìm hiểu thêm về **...**
-- 👯 Tôi muốn hợp tác trong các dự án **...**
-- 💬 Bạn có thể hỏi tôi về **FiveM, React, Node.js, Lua, Backend...**
-- 📫 Liên hệ với tôi: **...**
-- 🌐 Website: **...**
-- ⚡ Sở thích: **Lập trình, game và xây dựng các hệ thống mới**
+  <tr>
+    <th>👥 Crew System</th>
+    <th>🏠 Housing System</th>
+  </tr>
 
----
+  <tr>
+    <td align="center">
 
-## ⚙️ Công cụ và công nghệ yêu thích
+<details open>
+<summary>Management</summary>
 
-Những công cụ và công nghệ tôi thường xuyên sử dụng hoặc đang quan tâm:
-
-**Ngôn ngữ lập trình**
-- JavaScript
-- TypeScript
-- Lua
-- Python
-- C#
-- C++
-
-**Frontend**
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
-
-**Backend**
-- Node.js
-- REST API
-- WebSocket
-
-**Cơ sở dữ liệu**
-- MySQL
-- PostgreSQL
-- Redis
-
-**DevOps & Hạ tầng**
-- Git
-- GitHub
-- Docker
-- Cloudflare
-- Linux
-- Nginx
-
-**Công cụ phát triển**
-- Visual Studio Code
-- Postman
-- GitHub Actions
-
----
-
-## 🚧 Tôi đang làm gì?
-
-Bạn muốn biết hiện tại tôi đang phát triển những gì?
-
-Hiện tại tôi đang tập trung vào một số dự án liên quan đến **FiveM, Web và hệ thống Backend**.
-
-- 🎮 **FiveM** — Phát triển gameplay, resource và hệ thống server.
-- 🎨 **React / NUI** — Xây dựng giao diện hiện đại cho FiveM.
-- 🌐 **Website** — Phát triển website và hệ thống quản lý.
-- ⚙️ **Backend API** — Xây dựng API kết nối website, launcher và game server.
-- 🚀 **Launcher** — Phát triển launcher dành cho hệ thống FiveM.
-- 🤖 **Discord Bot** — Bot quản lý và tích hợp với server.
-- ☁️ **Infrastructure** — Server, CDN, Cloudflare và hệ thống triển khai.
-
-> Phần lớn các dự án lớn của tôi hiện đang được phát triển trong repository riêng tư.
-
-*Tôi vẫn đang liên tục phát triển và hoàn thiện các dự án của mình. Một số hệ thống có thể mất nhiều thời gian hơn dự kiến vì tôi muốn chúng hoạt động ổn định trước khi hoàn thành.*
-
-Cảm ơn bạn đã ghé thăm và quan tâm đến những dự án của tôi! ❤️
-
----
-
-## 📊 Thống kê GitHub
-
-<details>
-<summary>📊 Thống kê trang GitHub</summary>
-
-Hiển thị tổng quan hoạt động trên GitHub như:
-
-- Tổng số commit
-- Pull Request
-- Issue
-- Contribution
-- Repository
-- Stars
+<img width="400" src="./assets/crew-management.png">
 
 </details>
 
 <details>
-<summary>📈 Biểu đồ hoạt động</summary>
+<summary>Territory</summary>
 
-Hiển thị biểu đồ hoạt động và contribution trên GitHub.
+<img width="400" src="./assets/crew-territory.png">
+
+</details>
+
+<img width="900" height="1">
+
+</td>
+
+<td align="center">
+
+<details open>
+<summary>House Interface</summary>
+
+<img width="400" src="./assets/housing.png">
 
 </details>
 
 <details>
-<summary>👀 Lượt xem trang cá nhân</summary>
+<summary>Crew Storage</summary>
 
-Hiển thị số lượt người đã truy cập GitHub Profile.
+<img width="400" src="./assets/storage.png">
+
+</details>
+
+<img width="900" height="1">
+
+</td>
+</tr>
+
+<tr>
+  <th>⚔️ PvP System</th>
+  <th>🚓 Police System</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<details open>
+<summary>PvP Arena</summary>
+
+<img width="400" src="./assets/pvp.png">
 
 </details>
 
 <details>
-<summary>⏳ Thời gian lập trình</summary>
+<summary>Leaderboard</summary>
 
-Hiển thị thống kê thời gian và hoạt động lập trình.
+<img width="400" src="./assets/leaderboard.png">
+
+</details>
+
+<img width="900" height="1">
+
+</td>
+
+<td align="center">
+
+<details open>
+<summary>Police Actions</summary>
+
+<img width="400" src="./assets/police.png">
 
 </details>
 
 <details>
-<summary>📌 Thông tin bổ sung</summary>
+<summary>Evidence & Storage</summary>
 
-Các thông tin và thống kê bổ sung về hoạt động phát triển.
+<img width="400" src="./assets/police-storage.png">
 
 </details>
 
+<img width="900" height="1">
+
+</td>
+</tr>
+
+<tr>
+  <th>💊 Activity Systems</th>
+  <th>🎁 Events</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<details open>
+<summary>Jobs & Activities</summary>
+
+<img width="400" src="./assets/jobs.png">
+
+</details>
+
+<details>
+<summary>Drug System</summary>
+
+<img width="400" src="./assets/drugs.png">
+
+</details>
+
+<img width="900" height="1">
+
+</td>
+
+<td align="center">
+
+<details open>
+<summary>Server Events</summary>
+
+<img width="400" src="./assets/events.png">
+
+</details>
+
+<details>
+<summary>Rewards</summary>
+
+<img width="400" src="./assets/rewards.png">
+
+</details>
+
+<img width="900" height="1">
+
+</td>
+</tr>
+</table>
+
 ---
 
-## ✅ Hoạt động GitHub gần đây
+## 🧩 Core Features
 
-Các hoạt động gần đây của tôi trên GitHub:
+<table>
+<tr>
+<td width="33%" align="center">
 
-- Commit code
-- Cập nhật repository
-- Tạo project mới
-- Pull Request
-- Issue
-- Release
+### ⚡ Performance
+
+Optimized client and server resources with minimal idle usage.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧱 Modular
+
+Each major system is separated into independent modules.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Secure
+
+Server-side validation for important gameplay actions.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎨 Modern UI
+
+React-based interfaces designed specifically for FiveM.
+
+</td>
+
+<td align="center">
+
+### 🗄️ Database
+
+Persistent player, crew and server data.
+
+</td>
+
+<td align="center">
+
+### 🌐 API
+
+Backend services for launcher, website and game server.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Thành tích GitHub
+## 🛠️ Technology
 
-Các thành tích và cột mốc đạt được trong quá trình hoạt động trên GitHub.
+<p align="center">
+
+<img src="https://img.shields.io/badge/FiveM-111111?style=for-the-badge&logo=fivem&logoColor=F40552">
+<img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua">
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql">
+
+</p>
 
 ---
 
-## 💻 Các dự án nổi bật
+## 📂 Architecture
 
-### 🚀 Launcher
-
-Launcher dành cho hệ thống FiveM, tích hợp tài khoản, cập nhật game và kết nối server.
-
-### 🌐 Website
-
-Website quản lý tài khoản, thông tin người chơi và các dịch vụ liên quan.
-
-### 🎮 FiveM Server
-
-Hệ thống server FiveM với nhiều resource và gameplay được phát triển riêng.
-
-### ⚙️ Backend
-
-Backend API chịu trách nhiệm kết nối:
+<details open>
+<summary><b>Project structure</b></summary>
 
 ```text
-Website
-   │
-   ├── Tài khoản
-   ├── Xác thực
-   │
-   ▼
-Backend API
-   │
-   ├── Cơ sở dữ liệu
-   ├── API
-   ├── Bảo mật
-   │
-   ▼
-FiveM Server
-   │
-   ├── Người chơi
-   ├── Gameplay
-   └── Resources
+darkside/
+├── client/
+│   ├── modules/
+│   ├── systems/
+│   └── utils/
+│
+├── server/
+│   ├── modules/
+│   ├── database/
+│   └── api/
+│
+├── shared/
+│   └── config/
+│
+├── web/
+│   ├── src/
+│   └── public/
+│
+└── fxmanifest.lua
 ```
 
----
-
-## 🧩 Lĩnh vực tôi quan tâm
-
-### 🎮 Phát triển Game
-
-Phát triển resource, gameplay và hệ thống dành cho FiveM.
-
-### 🎨 Giao diện
-
-Thiết kế và xây dựng giao diện React/NUI hiện đại.
-
-### ⚙️ Backend
-
-API, authentication, database và realtime services.
-
-### ☁️ Hạ tầng
-
-Server, domain, CDN, Cloudflare và deployment.
-
-### 🛡️ Bảo mật
-
-Xác thực người dùng, bảo vệ API và kiểm tra phía server.
-
-### 🤖 Automation
-
-Bot Discord, GitHub Actions và các công cụ tự động hóa.
+</details>
 
 ---
 
-## 📈 Hoạt động đóng góp
+## 📸 More previews
 
-Theo dõi lịch sử commit và contribution của tôi trên GitHub.
+<table>
+<tr>
+<td align="center">
+<img width="400" src="./assets/preview-01.png">
+</td>
 
----
+<td align="center">
+<img width="400" src="./assets/preview-02.png">
+</td>
+</tr>
 
-## 🐍 Biểu đồ Contribution
+<tr>
+<td align="center">
+<img width="400" src="./assets/preview-03.png">
+</td>
 
-Hiển thị hoạt ảnh chạy qua lịch sử contribution trên GitHub.
-
----
-
-## 🦖 Trò chơi Contribution
-
-Một phần trang trí vui dựa trên hoạt động GitHub, tương tự trò chơi khủng long Chrome trong profile mẫu.
-
----
-
-## 📫 Liên hệ với tôi
-
-- 🌐 **Website:** ...
-- 💬 **Discord:** ...
-- 📧 **Email:** ...
-- 🐙 **GitHub:** yukicore21321
-- 📘 **Facebook:** ...
-- 🎵 **TikTok:** ...
+<td align="center">
+<img width="400" src="./assets/preview-04.png">
+</td>
+</tr>
+</table>
 
 ---
 
-## ❤️ Cảm ơn bạn đã ghé thăm!
+## 🚀 Getting Started
 
-Cảm ơn bạn đã dành thời gian xem trang GitHub của tôi.
+<details>
+<summary><b>Installation</b></summary>
 
-Tôi luôn thích khám phá công nghệ mới, xây dựng những thứ thú vị và cải thiện các project của mình từng ngày.
+```bash
+git clone YOUR_REPOSITORY_URL
+cd darkside
+```
 
-**Code • Xây dựng • Thử nghiệm • Cải thiện • Lặp lại**
+Install frontend dependencies:
 
-⭐ Nếu bạn thấy một project nào đó hữu ích, hãy để lại một **Star** nhé!
+```bash
+cd web
+npm install
+npm run build
+```
+
+Add resource:
+
+```cfg
+ensure darkside
+```
+
+</details>
+
+---
+
+## 📋 Development
+
+| Module | Status |
+| --- | :---: |
+| Core | ✅ |
+| Crew | ✅ |
+| Housing | ✅ |
+| PvP | ✅ |
+| Police | ✅ |
+| Jobs | ✅ |
+| Events | 🚧 |
+| Optimization | 🚧 |
+
+---
+
+<div align="center">
+
+### 🌙 DARKSIDE
+
+**Built for FiveM. Designed for performance.**
+
+<br>
+
+⭐ Star this repository if you like the project.
+
+</div>
